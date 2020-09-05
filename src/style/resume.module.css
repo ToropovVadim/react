@@ -1,0 +1,160 @@
+/**{*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+/*body{*/
+/*    font-family: Montserrat, sans-serif;*/
+/*    max-width: 1280px;*/
+/*    background-color: #f5f7fa;*/
+/*    margin: 0 auto;*/
+/*}*/
+.blockResume{
+    font-family: Montserrat, sans-serif;
+    display: flex;
+    /*margin: 40px ;*/
+    /*max-width: 800px;*/
+    /*box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);*/
+    /*background-color: #1e2939;*/
+}
+.boxContact{
+    width: 260px;
+    background-color: #1e2939;
+}
+.box_aside_text{
+    /*padding-right: 40px;*/
+    /*padding-left: 40px;*/
+    /*padding-bottom: 376px;*/
+    padding: 0 10px 25px 25px;
+}
+.box_C{
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 700;
+    padding-right: 3px;
+}
+.box_aside_text a{
+    color: #8e949c;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    /*opacity: 1.5;*/
+    /*color: #ffffff;*/
+}
+.title_contacts,
+.title_Tech_Skills,
+.title_Soft_Skills {
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+}
+.span_Tech_Skills,
+.span_Soft_Skills{
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.li_Tech_Skills,
+.li_Soft_Skills{
+    color: #ff6b08;
+    padding-top: 6px;
+    margin-left: 20px;
+
+}
+.listUl{
+    padding-left:0;
+}
+/*************************************************************/
+.resumeContent{
+    /*overflow: auto;*/
+    padding: 60px 15px 40px;
+    color: #000000;
+}
+.Front_End_Developer{
+    font-size : 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.Vadik_Toropov{
+    font-size: 45px;
+    font-weight: 700;
+    /*line-height: 89px;*/
+    padding: 25px 0 25px;
+}
+.content_text{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+    /*padding-right: 140px;*/
+}
+.title_project{
+    padding: 35px 0 15px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.ol_li_projects{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    margin-left: 17px;
+}
+.a_projects, .span_projects{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    padding:0 6px 0;
+}
+.tile_work_experince{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-top: 30px;
+}
+.title_front_end_developer{
+    padding: 25px 0 15px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.span_colors_title_front_end_developer{
+    color: #ff6b08;
+}
+.p_data{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a8a8a8;
+    padding-bottom: 15px;
+}
+.span_p_data{
+    color: #000000;
+    font-weight: 600;
+}
+.ul_li_projects{
+    margin-left: 17px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.management{
+    font-size: 16px;
+    font-weight: 700;
+    /*line-height: 24px;*/
+    padding-bottom: 15px;
+}
+.imgVadik{
+    width: 100%;
+    padding-top:40px;
+}
+
